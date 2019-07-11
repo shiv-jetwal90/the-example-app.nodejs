@@ -12,7 +12,7 @@ integrations:
 env:
   global:
     - DOCKER_REPO="the-example-app.nodejs"
-    - DOCKER_ACC=devopsrecipes # replace with your Docker Hub account name    
+    - DOCKER_ACC=shiv100 # replace with your Docker Hub account name    
 
 build:
   ci:
